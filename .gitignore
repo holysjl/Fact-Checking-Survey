@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+docs/
+*.iml
+target/
+.classpath
+.project
+.settings/
+local/
+run.sh
+FreeTest.java
+results/
